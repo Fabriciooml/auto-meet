@@ -66,5 +66,3 @@ driver = webdriver.Chrome(chrome_options=opt, executable_path=r'chromedriver')
 #you will need to change the executable_path=r'chromedriver' to the path where you have downloaded the chromedriver or any browerdrive. I used chromium for the test.
 
 connect()  
-
-print("No meets right now")
